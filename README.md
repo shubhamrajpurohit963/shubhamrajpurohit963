@@ -1,6 +1,6 @@
 ### Hi there 👋, Shubham Rajpurohit
-#### Android & Web Development
-#### ![Android & Web Development]
+### Android & Web Development
+
 
 I'm Shubham recent Computer Science Graduate seeking to use My Development Skills (Web and Mobile).
 Some technologies I enjoy working with include Android, Web Dev using MERN or PHP Stack. 
