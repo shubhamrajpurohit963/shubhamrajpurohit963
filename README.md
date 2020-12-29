@@ -1,6 +1,6 @@
 ### Hi there 👋, Shubham Rajpurohit
 #### Android & Web Development
-![Android & Web Development](https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?size=626&ext=jpg&ga=GA1.2.1576168418.1604039234)
+#### ![Android & Web Development]
 
 I'm Shubham recent Computer Science Graduate seeking to use My Development Skills (Web and Mobile).
 Some technologies I enjoy working with include Android, Web Dev using MERN or PHP Stack. 
