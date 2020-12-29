@@ -1,8 +1,13 @@
 ### Hi there 👋
 
+I'm Shubham recent Computer Science Graduate seeking to use My Development Skills (Web and Mobile).
+Some technologies I enjoy working with include Android, Web Dev using MERN or PHP Stack. 
+I really love learning new Programming Languages, Libraries & Frameworks like Kotlin, React Native.
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shubhamrajpurohit963)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **shubhamrajpurohit963/shubhamrajpurohit963** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<!-- 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,4 +18,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> -->
